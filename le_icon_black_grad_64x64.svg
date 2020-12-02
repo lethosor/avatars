@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,8 +12,8 @@
    height="64px"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="le_icon.svg">
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="le_icon_black_grad_64x64.svg">
   <defs
      id="defs2987">
     <linearGradient
@@ -68,9 +66,10 @@
      inkscape:grid-bbox="true"
      inkscape:window-width="1102"
      inkscape:window-height="712"
-     inkscape:window-x="15"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid2993" />
@@ -83,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
